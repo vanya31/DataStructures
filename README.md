@@ -1,6 +1,6 @@
 # DataStructures
 Practice Problems 
-
+<h1>Arrays</h1>
 <table>
   <tr>
     <th>Sr. No.</th>
