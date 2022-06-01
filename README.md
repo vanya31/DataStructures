@@ -12,5 +12,10 @@ Practice Problems
     <td>Reverse Array</td>
     <td>Linear Sorting, Recursion</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Left Rotation</td>
+    <td>Modulus</td>
+  </tr>
  
 </table>
